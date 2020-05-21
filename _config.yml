@@ -269,6 +269,7 @@ defaults:
       comments: # true
       share: true
       related: true
+<<<<<<< HEAD
   # _pages 
   - scope:
       path: "_pages"
@@ -297,3 +298,14 @@ relative_source: ../test/
 destination: ../test-posts
 production_url:  https://imreplay.github.io/test # or Your Custom URL
 source_url:  https://github.com/imreplay/test/ # Github repo URL
+=======
+#new line from      
+  -scope:
+      path: "_page"
+      type: pages
+   value:
+      layout: single
+      author_profile: true 
+#to 
+      
+>>>>>>> 617ded35789c1550527d93f3404e8e80b74ffd3e
