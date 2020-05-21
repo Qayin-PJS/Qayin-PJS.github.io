@@ -279,3 +279,12 @@ defaults:
       comments: # true
       share: true
       related: true
+#new line from      
+  -scope:
+      path: "_page"
+      type: pages
+   value:
+      layout: single
+      author_profile: true 
+#to 
+      
