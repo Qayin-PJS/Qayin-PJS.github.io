@@ -93,13 +93,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jaesung_Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I **wanne** tell you for me"
+  location         : "Korea"
   email            :
   links:
-    - label: "Email"
+    - label: "v3779@g.skku.edu"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
