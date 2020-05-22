@@ -28,20 +28,20 @@ last_modified_at: 2020. 05. 22. (목) 15:35:10 KST
 
 * 현재 프로젝트는 총 2개가 등록되엇 있다.
 * 하나는 README 작성에 대한 프로젝트다. README 작성에 관한 Project의 카드로는 다음 사항들이 있다.
-** 계획 작성
-** 프로젝스 소개
-** 팀원정보 입력
-** 활동 방법
-** 기여 역할
+  * 계획 작성
+  * 프로젝스 소개
+  * 팀원정보 입력
+  * 활동 방법
+  * 기여 역할
 * 홈페이지 구성을 위한 proejct에는 다음과 같은 카드들이 있다.
-** 테마적용하기 - 완료
-** Algorithm project 소개 포스트 작성하기
-** animate.css 소개 포스트 작성하기
-** wiki활동 결과 포스트 하기
-** project 활동결과 포스트하기
-** issue활동 결과 포스트 하기
-** commit 결과보고 포스트 하기
-** contributor 모집글 작성하기
+  * 테마적용하기 - 완료
+  * Algorithm project 소개 포스트 작성하기
+  * animate.css 소개 포스트 작성하기
+  * wiki활동 결과 포스트 하기
+  * project 활동결과 포스트하기
+  * issue활동 결과 포스트 하기
+  * commit 결과보고 포스트 하기
+  * contributor 모집글 작성하기
 
 # wiki
 ![](/assets/images/wiki.png)  
