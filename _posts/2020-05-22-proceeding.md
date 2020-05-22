@@ -11,6 +11,7 @@ last_modified_at: 2020. 05. 22. (목) 15:35:10 KST
 
 # commit 
 ![](/assets/images/commit.png)  
+- - -
 ![](/assets/images/frequency.png)
 * 현재 작성시간 기준 총 commit 수는 121이다.  
 * 아직 초반이기 때문에 대부분의 commit 내용은 readme나 homepage 구성을 위한 commit이다.
